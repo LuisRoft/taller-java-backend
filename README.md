@@ -88,6 +88,12 @@ curl http://localhost:8080/api/users
 curl http://localhost:8080/api/users/1
 ```
 
+### Obtener Productos
+
+```bash
+curl http://localhost:8080/api/products
+```
+
 ### 🛒 Pedidos
 
 #### Crear Pedido (Compra)
